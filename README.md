@@ -33,4 +33,4 @@ Global Flags:
       --user string                    The name of the kubeconfig user to use
 
 ```
-[image](https://user-images.githubusercontent.com/105088817/169178844-62d4dc2e-52de-4a68-ac6a-497d0269e1c6.png)
+![image](https://user-images.githubusercontent.com/105088817/169178844-62d4dc2e-52de-4a68-ac6a-497d0269e1c6.png)
